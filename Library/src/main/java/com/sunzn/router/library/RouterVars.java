@@ -36,6 +36,7 @@ public class RouterVars {
         public static final String GE006 = "GE006";  // 新书人气 - 栏目 - 图书
         public static final String GE007 = "GE007";  // 收藏榜单 - 栏目 - 图书
         public static final String GE008 = "GE008";  // 热读榜单 - 栏目 - 图书
+        public static final String GP001 = "GP001";  // 出版厂家 - 厂家 - 图书
 
         public static final String EA001 = "EA001";  // 文集详情 - 详情 - 文集
         public static final String EC001 = "EC001";  // 文集频道 - 频道 - 文集
