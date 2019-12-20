@@ -42,7 +42,7 @@ public class RouterVars {
         public static final String EA001 = "EA001";  // 文集详情 - 详情 - 文集
         public static final String EC001 = "EC001";  // 文集频道 - 频道 - 文集
         public static final String ED001 = "ED001";  // 一级频道 - 频道 - 文集
-        public static final String ER001 = "ER001";  // 热门推荐 - 热门 - 文集
+        public static final String ET001 = "ET001";  // 热门推荐 - 热门 - 文集
         public static final String EE001 = "EE001";  // 热门主编 - 热门 - 文集
         public static final String EN001 = "EN001";  // 最新文集 - 最新 - 文集
 
