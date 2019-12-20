@@ -50,7 +50,8 @@ public class RouterVars {
         public static final String HA001 = "HA001";  // 辞典详情 - 详情 - 辞典
         public static final String HE001 = "HE001";  // 词条详情 - 详情 - 辞典
         public static final String HS001 = "HS001";  // 词条搜索 - 搜索 - 辞典
-        public static final String HC001 = "HC001";  // 辞典分类 - 分类 - 辞典
+        public static final String HC002 = "HC002";  // 辞典父类 - 分类 - 辞典
+        public static final String HC001 = "HC001";  // 辞典子类 - 分类 - 辞典
         public static final String HT001 = "HT001";  // 专题列表 - 专题 - 辞典
         public static final String HT002 = "HT002";  // 十大专题 - 专题 - 辞典
         public static final String HT003 = "HT003";  // 专题子集 - 专题 - 辞典
