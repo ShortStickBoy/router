@@ -53,6 +53,7 @@ public class RouterVars {
         public static final String HC001 = "HC001";  // 辞典分类 - 分类 - 辞典
         public static final String HT001 = "HT001";  // 专题列表 - 专题 - 辞典
         public static final String HT002 = "HT002";  // 十大专题 - 专题 - 辞典
+        public static final String HT003 = "HT003";  // 专题子集 - 专题 - 辞典
         public static final String HP001 = "HP001";  // 品读列表 - 品读 - 辞典
         public static final String HP002 = "HP002";  // 品读详情 - 品读 - 辞典
 
