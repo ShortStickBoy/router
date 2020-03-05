@@ -38,15 +38,25 @@ public class RouterVars {
         public static final String GE008 = "GE008";  // 热读榜单 - 栏目 - 图书
         public static final String GP001 = "GP001";  // 出版厂家 - 厂家 - 图书
 
+        public static final String EH001 = "EH001";  // 文集首页 - 首页 - 文集
         public static final String EA001 = "EA001";  // 文集详情 - 详情 - 文集
         public static final String EC001 = "EC001";  // 文集频道 - 频道 - 文集
         public static final String ED001 = "ED001";  // 一级频道 - 频道 - 文集
+        public static final String ET001 = "ET001";  // 热门推荐 - 热门 - 文集
+        public static final String EE001 = "EE001";  // 热门主编 - 热门 - 文集
+        public static final String EN001 = "EN001";  // 最新文集 - 最新 - 文集
 
+        public static final String HH001 = "HH001";  // 辞典首页 - 首页 - 辞典
         public static final String HA001 = "HA001";  // 辞典详情 - 详情 - 辞典
         public static final String HE001 = "HE001";  // 词条详情 - 详情 - 辞典
         public static final String HS001 = "HS001";  // 词条搜索 - 搜索 - 辞典
-        public static final String HC001 = "HC001";  // 辞典分类 - 分类 - 辞典
+        public static final String HC002 = "HC002";  // 辞典父类 - 分类 - 辞典
+        public static final String HC001 = "HC001";  // 辞典子类 - 分类 - 辞典
         public static final String HT001 = "HT001";  // 专题列表 - 专题 - 辞典
+        public static final String HT002 = "HT002";  // 十大专题 - 专题 - 辞典
+        public static final String HT003 = "HT003";  // 专题子集 - 专题 - 辞典
+        public static final String HP001 = "HP001";  // 品读列表 - 品读 - 辞典
+        public static final String HP002 = "HP002";  // 品读详情 - 品读 - 辞典
 
         public static final String KD001 = "KD001";  // 课程详情 - 详情 - 课程
         public static final String KL001 = "KL001";  // 课程列表 - 列表 - 课程
