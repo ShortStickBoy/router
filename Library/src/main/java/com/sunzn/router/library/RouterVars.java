@@ -58,6 +58,12 @@ public class RouterVars {
         public static final String HP001 = "HP001";  // 品读列表 - 品读 - 辞典
         public static final String HP002 = "HP002";  // 品读详情 - 品读 - 辞典
 
+        public static final String KD001 = "KD001";  // 课程详情 - 详情 - 课程
+        public static final String KL001 = "KL001";  // 课程列表 - 列表 - 课程
+
+        public static final String VD001 = "VD001";  // 音频详情 - 详情 - 课程
+        public static final String VL001 = "VL001";  // 音频列表 - 列表 - 课程
+
         public static final String SM001 = "SM001";  // 系统消息 - 系统 - 系统
     }
 
