@@ -24,6 +24,8 @@ public class RouterVars {
         public static final String BE004 = "BE004";  // 新刊速递 - 栏目 - 期刊
         public static final String BE005 = "BE005";  // 免费体验 - 栏目 - 期刊
 
+        public static final String DA001 = "DA001";  // 学科详情 - 详情 - 学科
+
         public static final String GA001 = "GA001";  // 图书详情 - 详情 - 图书
         public static final String GC001 = "GC001";  // 图书频道 - 频道 - 图书
         public static final String GD001 = "GD001";  // 一级频道 - 频道 - 图书
