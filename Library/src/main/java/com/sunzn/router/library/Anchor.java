@@ -11,6 +11,8 @@ public @interface Anchor {
 
     String router() default "";
 
+    String parser() default "";
+
     String remark() default "";
 
 }

@@ -1,13 +1,13 @@
-package com.sunzn.router.library;
+package com.sunzn.router.library.route;
 
 public class RouterVars {
 
-    public class Error {
+    public static class Error {
         public static final String ER001 = "ER001";  // 未知标识 - 错误 - 路由
         public static final String ER002 = "ER002";  // 参数错误 - 错误 - 路由
     }
 
-    public class Token {
+    public static class Token {
         public static final String AA001 = "AA001";  // 期刊文献 - 文献 - 单篇
         public static final String AB001 = "AB001";  // 博士论文 - 文献 - 单篇
         public static final String AC001 = "AC001";  // 硕士论文 - 文献 - 单篇
